@@ -42,3 +42,12 @@ abcdef.curry('A', 'B', 'C')('D', 'E', 'F'); // 'ABCDEF'
 
 ![Mockup](./mockup.png)
 
+#### Week #3
+
+```
+Разработать веб приложение (backend + frontend), представляющее систему отслеживания ошибок (примеры таких систем: atlassian jira, trello.com)
+Используемые технологии: react.js+redux, node.js
+За основу можно взять прототип https://github.com/Xerotico/modern-react-boilerplate
+Приложение разместить в репозитории на github и вести разработку согласно git-flow.
+При разработке использовать доску в trello (доступ запросить у руководителя)
+```
