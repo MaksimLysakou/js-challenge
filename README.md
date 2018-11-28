@@ -48,7 +48,7 @@ abcdef.curry('A', 'B', 'C')('D', 'E', 'F'); // 'ABCDEF'
 Разработать веб приложение (backend + frontend), представляющее систему отслеживания ошибок
 (примеры таких систем: atlassian jira, trello.com)
 Используемые технологии: react.js+redux, node.js
-За основу можно взять прототип https://github.com/Xerotico/modern-react-boilerplate
+За основу можно взять create-react-app
 Приложение разместить в репозитории на github и вести разработку согласно git-flow.
 Подробности описаны на доске в trello (доступ запросить у руководителя)
 ```
